@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Full Stack developer in laguages PHP and JavaScript.
+
+Some other details about me:
+- 🔭 I’m currently working on BS Service and Technology as a PHP developer;
+- 💬 You can find me on Linkedin https://www.linkedin.com/in/raphaelaugusto-dev/
+
+
 <!--
 **RaphaelAugusto1989/RaphaelAugusto1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
