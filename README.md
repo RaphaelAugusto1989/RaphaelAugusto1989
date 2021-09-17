@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Full Stack developer in laguages PHP and JavaScript.
+I am Full Stack developer in laguages Java, PHP, JavaScript and Angular.
 
 Some other details about me:
 - 🔭 I’m currently working on BS Service and Technology as a PHP developer;
